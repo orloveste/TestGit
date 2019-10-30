@@ -11,6 +11,8 @@ public class euclid {
                 a = a - b;
             }
         }
+
+        //git status
         System.out.println("cel mai mare multiplu comun + " + a );
     }
 }
