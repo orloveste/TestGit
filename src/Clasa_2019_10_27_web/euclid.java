@@ -13,7 +13,7 @@ public class euclid {
         }
 
         //git status
-        System.out.println("cel mai mare multiplu comun + " + a );
+        System.out.println("cel mai mic divizor comun + " + a );
     }
 }
 
